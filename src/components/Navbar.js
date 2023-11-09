@@ -121,24 +121,24 @@ const Navbar=()=>
         <i className="bi bi-envelope d-flex align-items-center">
           <a href="mailto:info@jentransit.com.au">info@jentransit.com.au</a>
         </i>
-        // <i className="bi bi-phone d-flex align-items-center ms-4">
-        //   // <span>+61 3 9607 8202 | +61 429 275 087</span>
-        // </i>
+        {/* <i className="bi bi-phone d-flex align-items-center ms-4">
+          <span>+61 3 9607 8202 | +61 429 275 087</span>
+        </i> */}
       </div>
-      // <div className="social-links d-none d-md-flex align-items-center">
-      //   <a href="#" className="twitter">
-      //     <i className="bi bi-twitter" />
-      //   </a>
-      //   <a href="#" className="facebook">
-      //     <i className="bi bi-facebook" />
-      //   </a>
-      //   <a href="#" className="instagram">
-      //     <i className="bi bi-instagram" />
-      //   </a>
-      //   <a href="#" className="linkedin">
-      //     <i className="bi bi-linkedin" />
-      //   </a>
-      // </div>
+      {/* <div className="social-links d-none d-md-flex align-items-center">
+        <a href="#" className="twitter">
+          <i className="bi bi-twitter" />
+        </a>
+        <a href="#" className="facebook">
+          <i className="bi bi-facebook" />
+        </a>
+        <a href="#" className="instagram">
+          <i className="bi bi-instagram" />
+        </a>
+        <a href="#" className="linkedin">
+          <i className="bi bi-linkedin" />
+        </a>
+      </div> */}
     </div>
   </section>
   {/* ======= Header ======= */}
