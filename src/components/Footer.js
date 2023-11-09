@@ -100,31 +100,31 @@ const Footer=()=>
               <br />
             </p>
           </div>
-          // <div className="col-lg-3 col-md-6 footer-links">
-          //   <h4>Useful Links</h4>
-          //   <ul>
-          //     <li>
-          //       <i className="bx bx-chevron-right" />{" "}
-          //       <a href="index.html">Home</a>
-          //     </li>
-          //     <li>
-          //       <i className="bx bx-chevron-right" />{" "}
-          //       <a href="about.html">About us</a>
-          //     </li>
-          //     <li>
-          //       <i className="bx bx-chevron-right" />{" "}
-          //       <a href="team.html">Our Team</a>
-          //     </li>
-          //     <li>
-          //       <i className="bx bx-chevron-right" />{" "}
-          //       <a href="customer.html">Customer Value</a>
-          //     </li>
-          //     <li>
-          //       <i className="bx bx-chevron-right" />{" "}
-          //       <a href="products.html">Products</a>
-          //     </li>
-          //   </ul>
-          // </div>
+          <div className="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li>
+                <i className="bx bx-chevron-right" />{" "}
+                <a href="index.html">Home</a>
+              </li>
+              <li>
+                <i className="bx bx-chevron-right" />{" "}
+                <a href="about.html">About us</a>
+              </li>
+              <li>
+                <i className="bx bx-chevron-right" />{" "}
+                <a href="team.html">Our Team</a>
+              </li>
+              <li>
+                <i className="bx bx-chevron-right" />{" "}
+                <a href="customer.html">Customer Value</a>
+              </li>
+              <li>
+                <i className="bx bx-chevron-right" />{" "}
+                <a href="products.html">Products</a>
+              </li>
+            </ul>
+          </div>
           <div className="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
@@ -150,27 +150,7 @@ const Footer=()=>
               </li>
             </ul>
           </div>
-          <div className="col-lg-3 col-md-6 footer-links">
-            <h4>Our Social Networks</h4>
-            <p>You can reach out to us on any of the below</p>
-            <div className="social-links mt-3">
-              <a href="#" className="twitter">
-                <i className="bx bxl-twitter" />
-              </a>
-              <a href="#" className="facebook">
-                <i className="bx bxl-facebook" />
-              </a>
-              <a href="#" className="instagram">
-                <i className="bx bxl-instagram" />
-              </a>
-              <a href="#" className="google-plus">
-                <i className="bx bxl-skype" />
-              </a>
-              <a href="#" className="linkedin">
-                <i className="bx bxl-linkedin" />
-              </a>
-            </div>
-          </div>
+       
         </div>
       </div>
     </div>
@@ -178,7 +158,7 @@ const Footer=()=>
       <div className="copyright">
         © Copyright{" "}
         <strong>
-          <span style={{ fontWeight: "bold" }}>JeTransit</span>
+          <span style={{ fontWeight: "bold" }}>JenTransit</span>
         </strong>
         . All Rights Reserved
       </div>
