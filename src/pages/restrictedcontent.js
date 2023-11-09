@@ -4,7 +4,7 @@ import Navbar from '@/components/Navbar';
 import Head from 'next/head'
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react';
-import Footer from '@/components/footer';
+import Footer from '@/components/Footer';
 ;
 
 const Register=()=>{
