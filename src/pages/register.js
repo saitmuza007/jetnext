@@ -3,8 +3,6 @@ import AuthService from "./service/auth.service"
 import Navbar from '@/components/Navbar';
 import Head from 'next/head'
 import { useRouter } from 'next/router'
-import {useFormik} from "formik"
-import { signupSchema } from "./schema";
 import { useState } from 'react';
 ;
 
