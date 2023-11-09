@@ -158,7 +158,7 @@ const Footer=()=>
       <div className="copyright">
         © Copyright{" "}
         <strong>
-          <span style={{ fontWeight: "bold" }}>JenTransit</span>
+          <span style={{ fontWeight: "bold" }}>JeTransit</span>
         </strong>
         . All Rights Reserved
       </div>
