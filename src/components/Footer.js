@@ -84,7 +84,7 @@ const Footer=()=>
             <a href="index.html">
               <img
                 src="./assets/images/jetransit-logo.png"
-                style={{ width: 300 }}
+                style={{ width: 250 }}
                 alt=""
               />
             </a>
@@ -96,35 +96,35 @@ const Footer=()=>
               <br />
               <strong>Phone:</strong> +61 3 9607 8202 | +61 429 275 087
               <br />
-              <strong>Email:</strong> info@jentransit.au.com
+              <strong>Email:</strong> info@jentransit.com.au
               <br />
             </p>
           </div>
-          <div className="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li>
-                <i className="bx bx-chevron-right" />{" "}
-                <a href="index.html">Home</a>
-              </li>
-              <li>
-                <i className="bx bx-chevron-right" />{" "}
-                <a href="about.html">About us</a>
-              </li>
-              <li>
-                <i className="bx bx-chevron-right" />{" "}
-                <a href="team.html">Our Team</a>
-              </li>
-              <li>
-                <i className="bx bx-chevron-right" />{" "}
-                <a href="customer.html">Customer Value</a>
-              </li>
-              <li>
-                <i className="bx bx-chevron-right" />{" "}
-                <a href="products.html">Products</a>
-              </li>
-            </ul>
-          </div>
+          // <div className="col-lg-3 col-md-6 footer-links">
+          //   <h4>Useful Links</h4>
+          //   <ul>
+          //     <li>
+          //       <i className="bx bx-chevron-right" />{" "}
+          //       <a href="index.html">Home</a>
+          //     </li>
+          //     <li>
+          //       <i className="bx bx-chevron-right" />{" "}
+          //       <a href="about.html">About us</a>
+          //     </li>
+          //     <li>
+          //       <i className="bx bx-chevron-right" />{" "}
+          //       <a href="team.html">Our Team</a>
+          //     </li>
+          //     <li>
+          //       <i className="bx bx-chevron-right" />{" "}
+          //       <a href="customer.html">Customer Value</a>
+          //     </li>
+          //     <li>
+          //       <i className="bx bx-chevron-right" />{" "}
+          //       <a href="products.html">Products</a>
+          //     </li>
+          //   </ul>
+          // </div>
           <div className="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
@@ -178,7 +178,7 @@ const Footer=()=>
       <div className="copyright">
         © Copyright{" "}
         <strong>
-          <span style={{ fontWeight: "bold" }}>JenTransit</span>
+          <span style={{ fontWeight: "bold" }}>JeTransit</span>
         </strong>
         . All Rights Reserved
       </div>
